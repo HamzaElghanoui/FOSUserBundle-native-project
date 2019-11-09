@@ -1,0 +1,1 @@
+FOSUserBundle-native-project
